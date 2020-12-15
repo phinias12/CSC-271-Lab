@@ -1,4 +1,7 @@
-.row {background-color: rgb(240, 245, 233)}
+.row {
+    background-color: rgb(240, 245, 233);
+    padding-top: 20px;
+}
 
 #search{
     display:block;
