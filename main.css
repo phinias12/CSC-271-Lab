@@ -1,4 +1,4 @@
-.row {background-color: rgb(240, 245, 233)}
+/*.row {background-color: rgb(240, 245, 233)}/*
 
 #search{
     display:block;
@@ -49,9 +49,30 @@
     background-color: rgb(76, 8, 165);
     margin-top: 50%;
 }
+*/
 
 #posts{
+    margin-top: 35%;
     display: block;
     text-align: center;
 
-} */
+} 
+
+#name{
+    text-align:center;
+    font-size: 160%;
+    margin-right: 4%;
+    display: block;
+}
+
+.glyphicon.glyphicon-collapse-down{
+    font-size: 30px;
+    color:rgb(40, 99, 165);
+}
+
+#dog{
+    border-radius: 50%;
+    display: inline;
+    vertical-align: top;
+    margin-left: 20%;
+}
