@@ -1,12 +1,18 @@
 /*.row {background-color: rgb(240, 245, 233)}/*
 .row {
-    background-color: rgb(240, 245, 233);
     padding-top: 20px;
 }
 
 #search{
     display:block;
     text-align:center;
+}
+
+.bottomdiv {
+    border: 1px solid;
+    position:absolute;
+    left:0;
+    bottom:0;
 }
 
 /* .pic1{
