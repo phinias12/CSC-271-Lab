@@ -1,1 +1,6 @@
-.row {background-color: greenyellow}
+.row {background-color: rgb(240, 245, 233)}
+
+#search{
+    display:block;
+    text-align:center;
+}
