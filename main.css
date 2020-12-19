@@ -4,7 +4,7 @@
 }
 
 #posts{
-    margin-top: 75px;
+    margin-top: 50px;
     display: block;
     text-align: center;
 
@@ -12,9 +12,11 @@
 
 #name{
     text-align:center;
-    font-size: 160%;
-    margin-right: 4%;
+    font-size: 200%;
+    margin-right: 25.3%;
     display: block;
+    
+
 }
 
 .glyphicon.glyphicon-collapse-down{
@@ -27,8 +29,29 @@
     display: inline;
     vertical-align: top;
     margin-left: 20%;
+    float: left;
 }
 
 footer {
     padding-top: 20px;
+}
+
+#followers{
+    font-size: 140%;
+    margin-left: 40%;
+}
+
+#body{
+    margin-left: 40%;
+    margin-top: 3%;
+}
+#text{
+    margin-left: 40%;
+}
+#link{
+    margin-left: 40%;
+}
+#sections{
+    margin-left: 34%;
+    
 }
